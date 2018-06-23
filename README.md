@@ -5,5 +5,6 @@ Pre-requisits:
 1)Must have pygame installed
 
 To play the game:
-1) Navigate to the MUCH_WOW file
-2)Run Pygame.py in python
+1)Un-zip MUCH_WOW.tar.gz
+2)Navigate to the new MUCH_WOW file
+3)Run Pygame.py in python
