@@ -189,7 +189,7 @@ class MLG_Elmo(pygame.sprite.Sprite):
 
 class sun(pygame.sprite.Sprite):
     def __init__(self):
-        self.image = pygame.image.load("sun.png").convert_alpha()
+        self.image = pygame.image.load("Sun.png").convert_alpha()
         self.rect = self.image.get_rect()
 
     def the_sun_turns(self):
