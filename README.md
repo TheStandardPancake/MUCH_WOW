@@ -2,7 +2,7 @@
 MUCH_WOW
 
 Pre-requisits:
-1)Must have pygame installed
+Must have pygame installed
 
 To play the game:
 1)Un-zip MUCH_WOW.tar.gz
